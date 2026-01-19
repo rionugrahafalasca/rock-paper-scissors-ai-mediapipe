@@ -59,7 +59,7 @@ ROCK-PAPER-SCISSORS-AI-MEDIAPIPE/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 Environment & Dependencies
