@@ -41,7 +41,7 @@ How It Works
 
 Project Structure
 
-````txt
+```txt
 ROCK-PAPER-SCISSORS-AI-MEDIAPIPE/
 │
 ├── assets/                 # Images, audio, and visual assets
@@ -60,7 +60,6 @@ ROCK-PAPER-SCISSORS-AI-MEDIAPIPE/
 ├── requirements.txt
 └── README.md
 ```
----
 
 Environment & Dependencies
 
