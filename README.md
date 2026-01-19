@@ -117,4 +117,3 @@ Credits & Notes
 License
 
 This project is intended for educational and portfolio purposes.
-````
