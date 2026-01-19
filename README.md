@@ -79,9 +79,11 @@ Installation
 ```bash
 git clone https://github.com/rionugrahafalasca/rock-paper-scissors-ai-mediapipe.git
 cd rock-paper-scissors-ai-mediapipe
+```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 Running the Game
 python src/main.py
@@ -97,11 +99,11 @@ Later, the training pipeline was migrated to custom Python-based data collection
 To collect dataset:
 ```bash
 python src/collect_dataset.py
-
+```
 To train the model:
 ```bash
 python src/train_mediapipe_model.py
-
+```
 Future Improvements
 - Add final match result screen (Win/Lose)
 
