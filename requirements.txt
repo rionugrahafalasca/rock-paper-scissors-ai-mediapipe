@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+numpy==1.26.4
+mediapipe==0.10.9
+opencv-python==4.8.0.76
+pygame
