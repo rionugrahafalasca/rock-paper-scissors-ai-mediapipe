@@ -20,6 +20,8 @@ Features
 - Best of 5 (BO5) scoring system
 - Game UI built with Pygame
 - Sound effects and visual feedback
+- Professional-style in-game HUD with clear score, status, and control panels
+- Final match winner screen shown before replaying
 
 ---
 
@@ -32,10 +34,7 @@ How It Works
 5. The computer randomly selects its move.
 6. The system compares results and updates the score.
 7. First side to reach 3 wins (BO5) wins the match.
-8. The game automatically resets after a match ends.
-
-> ⚠️ Note:  
-> A match result screen was planned, but due to a known bug, the game currently resets scores immediately after BO5 completion.
+8. After a match ends, a winner screen is shown before the player chooses to replay.
 
 ---
 
@@ -105,7 +104,8 @@ To train the model:
 python src/train_mediapipe_model.py
 ```
 Future Improvements
-- Add final match result screen (Win/Lose)
+- Add more animation variations and transition effects
+- Add selectable difficulty or game modes
 
 Credits & Notes
 
